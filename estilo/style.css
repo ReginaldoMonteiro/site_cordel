@@ -39,6 +39,9 @@ html, body{
         text-decoration: underline;
     }
 
+    section > p{
+        padding-bottom: 2em;
+    }
     section{
         padding-top:10vh;
         padding-bottom: 10vh;
